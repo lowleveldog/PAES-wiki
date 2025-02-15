@@ -124,7 +124,8 @@ Nótese que $(7^2) ^3$ no es lo mismo que $7^{2^3}$ . En el segundo caso el $3$ 
 Base $2$, exponente $-3$.
 $$
 2^{-3}
-$$No tendría sentido intuitivamente el multiplicar una base por sí misma una cantidad negativa de veces, por lo que podemos intentar llegar a este valor de manera práctica usando la propiedad de división misma base distinto exponente, haciendo que, con la resta, el exponente se vuelva negativo:
+$$
+No tendría sentido intuitivamente el multiplicar una base por sí misma una cantidad negativa de veces, por lo que podemos intentar llegar a este valor de manera práctica usando la propiedad de división misma base distinto exponente, haciendo que, con la resta, el exponente se vuelva negativo:
 $$
 \frac{2^3}{2^{2\times 3}}= \frac{2^3}{2^{6}} = 2^{3-6} = 2^{-3}
 $$
